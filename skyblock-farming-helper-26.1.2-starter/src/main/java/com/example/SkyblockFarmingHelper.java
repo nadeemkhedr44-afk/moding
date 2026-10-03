@@ -1,0 +1,1 @@
+package com.example;\n\n// Client-only mod entrypoint is declared in fabric.mod.json.\n
